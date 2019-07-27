@@ -1,0 +1,25 @@
+load
+horizontalrainbow
+save horizontalRainbow.jpg
+
+load
+verticalrainbow
+save verticalRainbow.jpg
+
+load
+checkerboard 50
+save checkerboard.jpg
+
+dimensions 1200 800
+france
+save france.jpg
+
+dimensions 1200 800
+greece
+save greece.jpg
+
+dimensions 500 500
+switzerland
+save switzerland.jpg
+
+quit

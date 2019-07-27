@@ -1,0 +1,49 @@
+load giraffe.jpg
+blur
+save blurredGiraffe.jpg
+
+load giraffe.jpg
+sharpen
+save sharpenedGiraffe.jpg
+
+load giraffe.jpg
+sepia
+save sepiaGiraffe.jpg
+
+load giraffe.jpg
+greyscale
+save greyscaleGiraffe.jpg
+
+load giraffe.jpg
+dither
+save ditheredGiraffe.jpg
+
+load giraffe.jpg
+mosaic 1000
+save mosaicGiraffe.jpg
+
+load rushmore.jpg
+blur
+save blurredRushmore.jpg
+
+load rushmore.jpg
+sharpen
+save sharpenedRushmore.jpg
+
+load rushmore.jpg
+sepia
+save sepiaRushmore.jpg
+
+load rushmore.jpg
+greyscale
+save greyscaleRushmore.jpg
+
+load rushmore.jpg
+dither
+save ditheredRushmore.jpg
+
+load rushmore.jpg
+mosaic 250
+save mosaicRushmore.jpg
+
+quit
